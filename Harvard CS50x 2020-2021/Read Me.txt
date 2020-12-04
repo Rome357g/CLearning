@@ -1,0 +1,3 @@
+These are my projects for the various problem sets of Harvard CS50x 
+
+https://cs50.harvard.edu/x/2020/
